@@ -1,10 +1,10 @@
 {
   "data": [
 {
-      "admob_interstitial":"ca-app-pub-1848739877572166/8135969374",
-      "admob_native":"ca-app-pub-1848739877572166/8243780589",
-      "admob_banner":"ca-app-pub-1848739877572166/4496107266",
-      "admob_appopen":"ca-app-pub-1848739877572166/7541019108",
+      "admob_interstitial":"/21753324030,22780729941/com.mankistb.settopbox.remotecontrol.settopboxremote_Interstitial",
+      "admob_native":"/21753324030,22780729941/com.mankistb.settopbox.remotecontrol.settopboxremote_Native",
+      "admob_banner":"/21753324030,22780729941/com.mankistb.settopbox.remotecontrol.settopboxremote_Banner",
+      "admob_appopen":"/21753324030,22780729941/com.mankistb.settopbox.remotecontrol.settopboxremote_AppOpen",
       "ispurchaseItem":"1"
 }
 ]
